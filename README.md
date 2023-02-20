@@ -2,4 +2,4 @@
 
 ### リリース
 
-[Release](./release)
+[Release](/release)
