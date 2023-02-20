@@ -2,4 +2,4 @@
 
 ### リリース
 
-[Release](https://github.com/NU-iBLab/publictest/release)
+[Release](https://github.com/NU-iBLab/publictest/releases)
